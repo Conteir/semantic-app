@@ -230,3 +230,25 @@ div.rendered > ul > li {
   padding: 0px !important;
   padding-left: 20px !important;
 }
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.wrapper
+{
+width:10px;
+height:10px;
+position:relative;
+right:-100px;
+bottom:0px;
+}
+
+.arrow
+{
+width:-1px;
+height:30px;
+position:absolute;
+right:-700px;
+bottom:0px;
+}

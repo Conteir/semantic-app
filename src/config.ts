@@ -62,13 +62,13 @@ export const codeSystems = [
   export const codeSystemEnv = [
     {
       id: "ICPC-2",
-      title: "Primærhelsetjenesten (ICPC-2)",
+      title: "ICPC-2B",
       url: terminlogyServer + '/browser/' + branchICPC2 + '/members' + urlParameters + '&referenceSet=450993002'
         + '&referencedComponentId='
     },
     {
       id: "ICD-10",
-      title: "Spesialisthelsetjenesten (ICD-10)",
+      title: "ICD-10",
       url: terminlogyServer + '/browser/' + branchICD10 + '/members' + urlParameters + '&referenceSet=447562003'
         + '&referencedComponentId='
     }
